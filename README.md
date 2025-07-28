@@ -1,13 +1,13 @@
 # 📱 Impact of Technology Use on Academic Performance and Life Satisfaction Among Youth
 
-## 🧠 Research Goal
+##  Research Goal
 To examine how technology usage affects academic performance (`EDUC`) and life satisfaction (`HAPPY`) among youth using the General Social Survey (GSS) dataset, while also considering the role of social determinants like age, race, sex, and income.
 
 
 <p align="center">
   <img src="TECHNOLOGY.jpg" width="600"/>
   <br>
-  <em>🧠 fNIRS brain mapping – Understanding neurophenotypes in Parkinson’s Disease</em>
+  <em>🧠 TECHNOLOGY INFLUENCE
 </p>
 
 ---
